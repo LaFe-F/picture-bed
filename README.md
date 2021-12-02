@@ -1,0 +1,2 @@
+# picture-bed
+private bed
